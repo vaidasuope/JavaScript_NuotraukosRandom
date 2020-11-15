@@ -1,0 +1,29 @@
+#nuotraukos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: green;
+    width: 800px;
+    height: 620px;
+    display: none;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.foto {
+    height: 150px;
+    width: 230px;
+}
+
+#mygtukas2 {
+    display: none;
+    margin-left: 20px;
+}
+#mygtukai {
+    display: flex;
+    margin: 20px;
+}
